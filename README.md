@@ -28,8 +28,6 @@
 │  ├─ main.js
 │  ├─ style.css
 │  └─ bookManifest.js
-├─ docs/plans/
-│  └─ 2026-04-01-book-web-design.md
 ├─ 第一部分-基础篇/
 ├─ 第二部分-核心系统篇/
 ├─ 第三部分-高级模式篇/
@@ -72,13 +70,6 @@ npm run preview
 - 章节目录由 src/bookManifest.js 统一维护
 - 新增章节时，请同步更新 src/bookManifest.js
 
-## 贡献方式
-
-欢迎通过 Issue 或 Pull Request 参与改进：
-
-- 修复页面显示问题或阅读体验问题
-- 优化导航、样式与交互
-- 补充构建与部署文档
 
 ## 许可证
 
