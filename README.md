@@ -7,7 +7,6 @@
 
 </div>
 
-<img width="2880" height="1558" alt="image" src="https://github.com/user-attachments/assets/39efa7d4-4521-444e-a222-fd0acb756e51" />
 
 
 ## 这本书讲什么
