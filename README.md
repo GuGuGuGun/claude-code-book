@@ -3,7 +3,7 @@
 # 解码 Agent Harness
 
 
-### [在线阅读 →](https://gugugugun.github.io)
+### [在线阅读 →](https://gugugugun.github.io/claude-code-book)
 
 </div>
 
