@@ -35,7 +35,7 @@
 
 <br/>
 
-<img src="cover.png" alt="御舆：解码 Agent Harness — Claude Code 架构深度剖析" />
+<img width="480" src="cover.png" alt="御舆：解码 Agent Harness — Claude Code 架构深度剖析" />
 
 <img width="2880" height="1558" alt="Decoding Agent Harness — A Deep Architectural Analysis of Claude Code" src="https://github.com/user-attachments/assets/39efa7d4-4521-444e-a222-fd0acb756e51" />
 
