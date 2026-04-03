@@ -12,7 +12,7 @@ While everyone else teaches you how to **use** AI Agents — **This book dissect
 
 <br/>
 
-[![Read Online](https://img.shields.io/badge/📖_Read_Online-lintsinghua.github.io-9f7aea?style=for-the-badge)](https://lintsinghua.github.io/)
+[![Read Online](https://img.shields.io/badge/Read_Online-lintsinghua.github.io-9f7aea?style=for-the-badge)](https://lintsinghua.github.io/)
 
 [![GitHub Stars](https://img.shields.io/github/stars/lintsinghua/claude-code-book?style=flat-square&logo=github&label=Stars)](https://github.com/lintsinghua/claude-code-book/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/lintsinghua/claude-code-book?style=flat-square&logo=github&label=Forks)](https://github.com/lintsinghua/claude-code-book/network/members)
@@ -43,12 +43,12 @@ The market is saturated with guides on "how to write better prompts" and "how to
 
 |  | Feature | Description |
 |:-:|---------|-------------|
-| 🏗️ | **Architecture Analysis, Not API Docs** | Not "how to call," but "why designed this way" — tracing motivations, analyzing trade-offs, identifying anti-patterns |
-| 🧭 | **Design Philosophy, Not Tutorials** | From async generators to circuit breakers, every chapter distills transferable design principles |
-| 🔄 | **Transferable Cognitive Models** | Whether you use LangChain, AutoGen, CrewAI, or build from scratch — 139 architecture diagrams apply directly |
+| | **Architecture Analysis, Not API Docs** | Not "how to call," but "why designed this way" — tracing motivations, analyzing trade-offs, identifying anti-patterns |
+| | **Design Philosophy, Not Tutorials** | From async generators to circuit breakers, every chapter distills transferable design principles |
+| | **Transferable Cognitive Models** | Whether you use LangChain, AutoGen, CrewAI, or build from scratch — 139 architecture diagrams apply directly |
 
 <details>
-<summary><b>📊 By the Numbers</b></summary>
+<summary><b>By the Numbers</b></summary>
 
 | Metric | Count |
 |--------|-------|
@@ -139,10 +139,10 @@ The market is saturated with guides on "how to write better prompts" and "how to
 
 |  | Reader | What You'll Gain |
 |:-:|--------|-----------------|
-| 🏛️ | **Architects** | Complete Agent design space map and engineering trade-off analysis |
-| 🔧 | **Senior Engineers** | Underlying mechanisms of tool invocation, streaming, and permission control |
-| 🔬 | **Researchers** | Publishable-quality Agent system implementation analysis |
-| 💻 | **Claude Code Users** | Understand design intent and maximize capabilities |
+| | **Architects** | Complete Agent design space map and engineering trade-off analysis |
+| | **Senior Engineers** | Underlying mechanisms of tool invocation, streaming, and permission control |
+| | **Researchers** | Publishable-quality Agent system implementation analysis |
+| | **Claude Code Users** | Understand design intent and maximize capabilities |
 
 ---
 

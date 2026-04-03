@@ -12,7 +12,7 @@
 
 <br/>
 
-[![在线阅读](https://img.shields.io/badge/📖_在线阅读-lintsinghua.github.io-9f7aea?style=for-the-badge)](https://lintsinghua.github.io/)
+[![在线阅读](https://img.shields.io/badge/在线阅读-lintsinghua.github.io-9f7aea?style=for-the-badge)](https://lintsinghua.github.io/)
 
 [![GitHub Stars](https://img.shields.io/github/stars/lintsinghua/claude-code-book?style=flat-square&logo=github&label=Stars)](https://github.com/lintsinghua/claude-code-book/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/lintsinghua/claude-code-book?style=flat-square&logo=github&label=Forks)](https://github.com/lintsinghua/claude-code-book/network/members)
@@ -43,12 +43,12 @@
 
 |  | 特色 | 说明 |
 |:-:|------|------|
-| 🏗️ | **架构分析而非 API 文档** | 不讲"怎么调用"，讲"为什么这样设计"——追溯动机、分析权衡、指出反模式 |
-| 🧭 | **设计哲学而非使用教程** | 从异步生成器到断路器模式，每章提炼可迁移的设计原则 |
-| 🔄 | **可迁移的认知模型** | 无论你用 LangChain、AutoGen、CrewAI 还是从零构建，书中 139 张架构图直接复用 |
+| | **架构分析而非 API 文档** | 不讲"怎么调用"，讲"为什么这样设计"——追溯动机、分析权衡、指出反模式 |
+| | **设计哲学而非使用教程** | 从异步生成器到断路器模式，每章提炼可迁移的设计原则 |
+| | **可迁移的认知模型** | 无论你用 LangChain、AutoGen、CrewAI 还是从零构建，书中 139 张架构图直接复用 |
 
 <details>
-<summary><b>📊 书中的数据一览</b></summary>
+<summary><b>书中的数据一览</b></summary>
 
 | 指标 | 数量 |
 |------|------|
@@ -139,10 +139,10 @@
 
 |  | 读者 | 收获 |
 |:-:|------|------|
-| 🏛️ | **架构师** | 完整的 Agent 设计空间地图和工程权衡分析 |
-| 🔧 | **高级工程师** | 工具调用、流式处理、权限管控的底层机制 |
-| 🔬 | **研究者** | 可发表论文级别的 Agent 系统实现分析 |
-| 💻 | **Claude Code 用户** | 理解设计意图，最大化利用其能力 |
+| | **架构师** | 完整的 Agent 设计空间地图和工程权衡分析 |
+| | **高级工程师** | 工具调用、流式处理、权限管控的底层机制 |
+| | **研究者** | 可发表论文级别的 Agent 系统实现分析 |
+| | **Claude Code 用户** | 理解设计意图，最大化利用其能力 |
 
 ---
 
