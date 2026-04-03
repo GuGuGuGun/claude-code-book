@@ -2,9 +2,19 @@
 
 **English** | **[中文](../README.md)**
 
-# Decoding Agent Harness
+# Yù Yú: Decoding Agent Harness
 
 ### A Deep Architectural Analysis of Claude Code
+
+<br/>
+
+> *"Of all instruments, the chariot demands the most hands to build."* — *Kǎo Gōng Jì* (Rites of Zhou, c. 300 BC)
+>
+> In ancient China, the chariot was the most complex system ever engineered. The **yú** (舆, carriage) bears the rider; the shaft sets direction; the spokes transmit force; the linchpin constrains the wheel. Each part has its duty — only together can the vehicle move.
+>
+> Today, building an AI Agent is no different. The conversation loop is the **shaft**, the tool system the **spokes**, the permission pipeline the **linchpin**, and the runtime framework that bears it all — the Agent Harness — is the **yú**.
+>
+> This book is thus known as the **"Yú Shū"** (舆书, The Chariot Book).
 
 <br/>
 

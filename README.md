@@ -2,9 +2,21 @@
 
 **[English](en/README.md)** | **中文**
 
-# 解码 Agent Harness
+# 御舆：解码 Agent Harness
 
 ### Claude Code 架构深度剖析
+
+<br/>
+
+> *"一器而工聚焉者，车为多。"* ——《考工记》
+>
+> 两千年前，造一辆马车是最复杂的系统工程：**舆**承载乘者，辕定方向，辐传动力，軎辖为约束——每个构件各司其职，合而为一，车方能行。
+>
+> 今天，构建一个 AI Agent 亦是如此：对话循环为**辕**，工具系统为**辐**，权限管线为**軎辖**，而将这一切承载于其上、使智能体真正运转的运行时框架—— Agent Harness——正是那个**舆**。
+>
+> 古人御舆，驾驭的是天地之间最精密的机械；今人御舆，驾驭的是硅基时代最复杂的智能体系统。
+>
+> 本书因此得名**「舆书」**。
 
 <br/>
 
@@ -22,6 +34,8 @@
 [![Last Commit](https://img.shields.io/github/last-commit/lintsinghua/claude-code-book?style=flat-square)](https://github.com/lintsinghua/claude-code-book/commits/main)
 
 <br/>
+
+<img src="cover.png" alt="御舆：解码 Agent Harness — Claude Code 架构深度剖析" />
 
 <img width="2880" height="1558" alt="Decoding Agent Harness — A Deep Architectural Analysis of Claude Code" src="https://github.com/user-attachments/assets/39efa7d4-4521-444e-a222-fd0acb756e51" />
 
